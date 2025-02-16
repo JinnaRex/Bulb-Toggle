@@ -1,0 +1,25 @@
+.container{
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+
+}
+
+img{
+    width: 200px;
+    transition: 0.4s;
+}
+
+button{
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.4s;
+    width: 70px;
+}
+
+body{
+    background-color: black;
+}
